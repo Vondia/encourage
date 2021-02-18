@@ -1,0 +1,1 @@
+console.log("Learning to code is like learning to walk. You\'ll probably fall a couple times but if you stick with it, you\'ll do it your whole life.")
